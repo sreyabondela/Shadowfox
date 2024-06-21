@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <link rel="stylesheet" href="stylesheet.css">
+</head>
+<body>
+    <header>
+        <h>I'm Sreya Bondela</h>
+        <p>experinced with html,css,javascript</p>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Meet Sreya Bondela,a student.I have developed a strong set of skills.</p>
+    </section>
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>generatind qr codes</h3>
+            <p> A QR code generator is an application that stores any required textual data into a QR code which can be later scanned with a QR code scanner to reveal the stored information..</p>
+        </div>
+        <div class="project">
+            <h3>face recognition</h3>
+            <p>In this Facial recognitio, identifying or confirming an individual's identity using their face. Facial recognition systems can be used to identify people in photos, videos, or in real-time..</p>
+        </div>
+        <!-- Add more projects as needed -->
+    </section>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: your.email@example.com</p>
+    </section>
+    <footer>
+        <p>&copy; 2024  Sreya Bondela. All rights reserved.</p>
+    </footer>
+</body>
+</html>
